@@ -1,2 +1,2 @@
-# rlwe-simple
-Simple RLWE (ring learning with errors) implementation with python
+# rlwe-xmkckks
+A simple RLWE implementation modified to work with the xMK-CKKS encryption scheme in python
